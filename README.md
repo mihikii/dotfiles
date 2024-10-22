@@ -1,5 +1,5 @@
 dotfiles for my gnome 40 fedora system!
 
-![Screenshot from 2024-10-22 02-13-41](https://github.com/user-attachments/assets/acd76932-6180-4bed-b515-8d26ec781ec7)
+![Screenshot from 2024-10-22 19-34-06](https://github.com/user-attachments/assets/73f95a6e-a6fa-437f-af7d-505f4e0ec34c)
 
-![Screenshot from 2024-10-22 02-12-52](https://github.com/user-attachments/assets/30892890-5ba8-4199-a96a-4bf3c503157c)
+![Screenshot from 2024-10-22 19-35-51](https://github.com/user-attachments/assets/3ab17817-5863-4057-b33e-8cdf035c174d)
