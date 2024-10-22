@@ -1,0 +1,9 @@
+Head over to https://extensions.gnome.org/ to install the extensions in your system.
+
+Appindicator
+Blur my Shell
+Forge
+Logo Activities 
+Open Bar
+Space Bar
+User Themes
